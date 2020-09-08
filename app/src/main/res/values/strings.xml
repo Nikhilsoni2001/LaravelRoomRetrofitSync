@@ -3,4 +3,17 @@
     <string name="dummy_text">Dummy Text.</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="status">InActive</string>
+    <string name="Mobile">8915121633</string>
+    <string name="email">johndoe@gmail.com</string>
+    <string name="username">Username : </string>
+    <string name="id">1</string>
+    <string name="create_new_user">Create New User</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_email">Email</string>
+    <string name="enter_phone">Mobile</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="enter_your_credentials">Enter Your Credentials</string>
+    <string name="update">Update</string>
 </resources>
